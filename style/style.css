@@ -1,0 +1,205 @@
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    background-color: #9e9999;
+    padding: 1em;
+    margin: 0 auto;
+    height: 30px;
+    width: 800px;
+    border-radius: 30px;
+    position: relative;
+    font-size: 30px;
+}
+
+.content {
+    border: 1px solid black;
+    background-color: #bab984;
+    padding: 2em;
+    margin: 0 auto;
+    height: 150px;
+    width: 400px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    margin-left: auto;
+    top: 50px;
+    margin-top: auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+.content2 {
+    border: 1px solid black;
+    background-color: #bdef1a;
+    padding: 2em;
+    margin: 0 auto;
+    height: 100px;
+    width: 400px;
+    border-radius: 30px;
+    position: relative;
+    left: 0;
+    margin-left: auto;
+    top: 50px;
+    margin-top: auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+.questionBoxArea {
+    position: relative;
+    left: 0;
+    margin-left: auto;
+    top: 50px;
+    margin-top: auto;
+}
+
+.questionBox {
+    border: 1px solid black;
+    background-color: #c1b8b8;
+    padding: 1em;
+    margin: 0 auto;
+    height: 20px;
+    width: 400px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+
+.timerBox {
+    position: absolute;
+    height: 30px;
+    width: 220px;
+    margin-left: 80px;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.flagBackground {
+    position: absolute;
+    height: 114px;
+    width: 164px;
+    background-color: #c1b8b8;
+    border: 1px solid #c1b8b8;
+}
+
+.franceFlag {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-top: 7px;
+    margin-left: 7px;
+    background-color: #fff;
+}
+
+.francePart1 {
+    position: relative;
+    width: 50px;
+    height: 100px;
+    background-color: #1f0099;
+}
+
+.francePart2 {
+    position: absolute;
+    top: 0;
+    left: 100px;
+    width: 50px;
+    height: 100px;
+    background-color: #ff0017;
+}
+
+.swedenFlag {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-top: 7px;
+    margin-left: 7px;
+    background-color: #0067ab;
+}
+
+.swedenPart1 {
+    position: absolute;
+    margin-top: 42px;
+    width: 150px;
+    height: 17px;
+    background-color: #ffd000;
+}
+
+.swedenPart2 {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    width: 17px;
+    height: 100px;
+    background-color: #ffd000;
+}
+
+.germanyFlag {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-top: 7px;
+    margin-left: 7px;
+    background-color: #f00000;
+}
+
+.germanyPart1 {
+    position: absolute;
+    width: 150px;
+    height: 33px;
+    background-color: #000;
+}
+
+.germanyPart2 {
+    position: absolute;
+    margin-top: 67px;
+    width: 150px;
+    height: 33px;
+    background-color: #ffd200;
+}
+
+.norwayFlag {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-top: 7px;
+    margin-left: 7px;
+    background-color: #f00;
+}
+
+.norwayPart1 {
+    position: absolute;
+    margin-top: 38px;
+    width: 150px;
+    height: 27px;
+    background-color: #fff;
+}
+
+.norwayPart2 {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    width: 27px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.norwayPart3 {
+    position: absolute;
+    margin-top: 45px;
+    width: 150px;
+    height: 13px;
+    background-color: #0b176a;
+}
+
+.norwayPart4 {
+    position: absolute;
+    top: 0;
+    left: 47px;
+    width: 13px;
+    height: 100px;
+    background-color: #0b176a;
+}
